@@ -5,6 +5,6 @@ The project was written in C programming language using the allegro library. You
 
 To install allegro to ubuntu;
 
-sudo add-apt-repository ppa:allegro/5.2
-sudo apt-get update
-sudo apt-get install liballegro5-dev
+1)sudo add-apt-repository ppa:allegro/5.2   
+2)sudo apt-get update   
+3)sudo apt-get install liballegro5-dev   
