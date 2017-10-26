@@ -8,3 +8,6 @@ To install allegro to ubuntu;
 1)sudo add-apt-repository ppa:allegro/5.2   
 2)sudo apt-get update   
 3)sudo apt-get install liballegro5-dev   
+
+
+A video that about show how project works : https://www.youtube.com/watch?v=s_sjXfsspqg 
